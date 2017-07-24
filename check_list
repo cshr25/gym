@@ -1,0 +1,8 @@
+1. Create micro grid learning environment
+2. Introduce random variables as wweather, load consumption and disturbance
+3. Decide learning method 
+4. Decide learning space: time, SoC status, communication traffic(?)
+5. Learning method tuning: learning rate, convergence, adaptive capability to changing envirenment
+6. Online learning in real application
+7. Test result with overall information shared by bus line and local SoCs.
+cont.
